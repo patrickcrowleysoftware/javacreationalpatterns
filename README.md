@@ -1,5 +1,5 @@
 # javacreationalpatterns
-Examples of the five Java Creational Patterns:
+Examples of Java Creational Patterns:
 
 - Singleton
 - Factory
